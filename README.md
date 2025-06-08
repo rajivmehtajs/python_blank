@@ -14,3 +14,6 @@ Instructions for getting started with this project will be added here.
 
 ## License
 This project is licensed under the MIT License.
+
+## Author
+Rajiv Mehta
